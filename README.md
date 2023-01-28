@@ -1,7 +1,6 @@
-# ANSOL Presentation
+# I Love Free Software presentation
 
-Apresentação genérica sobre a [ANSOL](https://ansol.org) e o Software Livre.
+This is a presentation for [this talk](https://pt2023.mini.debconf.org/talks/2-i-3-free-software/).
 
-Esta apresentação é baseada numa outra feita anteriormente, e que pode ser
-encontrada em [ANSOL-MOSS](https://github.com/marado/ANSOL-MOSS/), e tem uma
-licença [Creative Commons Zero v1.0 Universal](LICENSE).
+It is a fork of [ANSOL-presentation](https://git.ansol.org/ansol/presentation),
+and licensed [Creative Commons Zero v1.0 Universal](LICENSE).
